@@ -1,0 +1,2 @@
+| time | ARegister[0] | DRegister[0] |  PC  | RAM16K[0] |
+|  15  |            0 |            5 |   6  |         5 |
